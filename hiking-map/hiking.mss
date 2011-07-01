@@ -112,7 +112,7 @@ Shading?
 }
 
 #peak {
-  point-file: url("https://github.com/russellporter/hiking-map/raw/master/images/peak.png");
+  point-file: url("https://github.com/russellporter/hiking-map/raw/master/hiking-map/images/peak.png");
   /*text-size:14;
   text-face-name:@font_reg;
   text-halo-radius:1;

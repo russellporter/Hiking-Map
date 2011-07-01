@@ -4,7 +4,7 @@
 }
 
 .natural[natural='scree'][zoom>11]{
-  polygon-pattern-file: url("https://github.com/russellporter/hiking-map/raw/master/images/scree.png");
+  polygon-pattern-file: url("https://github.com/russellporter/hiking-map/raw/master/hiking-map/images/scree.png");
 }
 
 .landuse[landuse='meadow'][zoom>11]{
