@@ -30,7 +30,7 @@ import json
 from sys import path
 from os.path import join
 
-mml = join(path[0], 'open-streets/open-streets.mml')
+mml = join(path[0], 'hiking-map/hiking-map.mml')
 
 with open(mml, 'r') as f:
   newf = json.loads(f.read())
